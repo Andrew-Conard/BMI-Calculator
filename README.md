@@ -60,8 +60,5 @@ John, you are overweight.
 - Store user BMI history in a database.
 - Provide health recommendations based on BMI results.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
-- **Your Name** - [GitHub Profile](https://github.com/your-username)
+- Andrew Conard
